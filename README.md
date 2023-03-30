@@ -1,6 +1,6 @@
 # Bootcamp-njaureguiberry
 *Éste es un repositorio de prueba
 
-##Index
+#Index
 *1
 *2
