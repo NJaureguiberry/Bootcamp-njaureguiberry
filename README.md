@@ -1,6 +1,2 @@
 # Bootcamp-njaureguiberry
-*Éste es un repositorio de prueba
-
-#Index
-*1
-*2
+<h1>Éste Repo es una prueba</h1>
