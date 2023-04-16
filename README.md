@@ -1,2 +1,3 @@
-# Bootcamp-njaureguiberry
-<h1>Éste Repo es una prueba</h1>
+<h1><u>Nicola&#769s Jaureguiberry</u></h1>
+
+<p>En &eacuteste repositorio encontrara&#769s todas las pra&#769cticas realizadas en el Bootcamp de Java realizadas en <b><em>EducaciónIT</em></b></p> 
