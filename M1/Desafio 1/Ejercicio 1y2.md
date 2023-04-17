@@ -1,0 +1,1 @@
+<p>Se modifica el readme del repo, se crea nuevo Branch, en conjunto se acompaña con una imágen con los Log de los commits.</p>
