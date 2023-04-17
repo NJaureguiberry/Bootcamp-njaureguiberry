@@ -1,0 +1,3 @@
+[submodule "M1/Desafio 2/NestJS/nest"]
+	path = M1/Desafio 2/NestJS/nest
+	url = git@github.com:NJaureguiberry/nest.git
