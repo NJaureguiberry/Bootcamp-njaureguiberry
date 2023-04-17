@@ -2,4 +2,4 @@
 
 <p>En &eacuteste repositorio encontrara&#769s todas las pra&#769cticas realizadas en el Bootcamp de Java realizadas en <b><em>EducaciónIT</em></b></p>
 
-<h2>IMPORTANTE: ÉSTO ES EL CLON DEL REPO INICIADO PARA EL DESAFIO 1</h2>
+<h2>Esta es una modificación para el ejercicio 1  del desafío 2 </h2>
