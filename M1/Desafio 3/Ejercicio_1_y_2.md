@@ -1,0 +1,8 @@
+Ejercicio 1 <br>
+* En éste caso al tener que interrumpir el trabajo en el branch actual "custom-navBar" para pasar al branch "master" lo que se tiene que hacer para salvar el commit (previamente a hacer el switch de branch) es usar el comando <bold>git stash save</bold> para poder guardar guardar los cambios temoporalmente y retomarlos en otro momento. <br>
+Una vez realizado ésto, se cambia de branch con el comando <bold>git switch master o  git checkout master</bold>. Una vez ya en el branch master se borra el archivo status.js, se corrobora mediante el comando "git status" -> "git add " -> "git commit -m "se borra de branch master archivo status.js" -> "git push" <br>
+
+---------------------------------------------------------------
+<br>
+Ejercicio 2<br>
+* En éste caso lo que tenemos que hacer es un Merge de la rama "front-react" a la rama "master". Para eso lo primero que tenemos que asegurarnos es estar en la rama "master". Usando el comando "git switch master" o "git checkout master" vamos a posicionarnos sobre la rama "master".  Posterior a eso nos tenemos que garantizar que en nuestro repositorio local la rama "master" esté actualizada. Para ello vamos a realizar un pull mediante el comando "git pull".  Una vez ya hecho el pull de la rama "master" utilizamos el comando "git merge front-react" para hacer el merge de la rama "front-react" a nuestra rama "master", en caso de tener algún tipo de conflicto se lo debera resolver previo a realizar cualquier tipo de push a la rama "master". Por último con los comandos "git add ." , "git commit -m "el commit"" y "git push" pushearemos los cambios a la rama "master"
