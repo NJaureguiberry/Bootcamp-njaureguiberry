@@ -4,4 +4,5 @@
 
 <ul>
     <li><a href="https://github.com/NJaureguiberry/Bootcamp-njaureguiberry/tree/M1-Git/M1">Modulo 1 - git</a></li>
+    <li><a href="https://github.com/NJaureguiberry/Bootcamp-njaureguiberry/tree/M2-HTML">Modulo 2 - HTML & CSS</a></li>    
 </ul>
