@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700;900&display=swap');
+
+
+
+
+main{
+    width: 50%;
+    position: relative;
+    margin-left: 25%;  /*Acá es el único lugar donde use los Margin con % ya lo que buscaba era posicionamiento en ventana únicamente*/
+    margin-top: 0%;
+    border: solid black;
+}
+
+h1{
+    color: #04146c;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 900;
+    font-size: 66pt;
+    text-align: center; 
+    margin: 2px 0px 2px 0px;
+    
+}
+
+h2{
+    background-color: #04146c;
+    color: white;
+    text-align: center;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 400;
+    font-size: 29pt;
+    margin: 0px;
+}
+
+
+
+h3{
+    color: #04146c;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight:400;
+    font-size: 20pt;
+    text-align: center;
+    margin: 0px;
+}
+
+strong{
+    font-weight:700;
+}
+
+p{
+    color: #04146c;
+    background-color: #edf7ff;
+    text-align: center;
+    font-size: 18pt;
+}
+
+div{
+    text-align: center;
+}
+
+img{
+    width: 600px;
+}
+
+

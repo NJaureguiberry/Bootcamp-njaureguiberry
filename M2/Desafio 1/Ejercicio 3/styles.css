@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+/*font-family: 'Montserrat', sans-serif;*/
+
+/*IMPORTANTE:Éste ejercicio no lo trabaje como un modelo de caja como el ejercicio 2 ya que al utilizar el background color no encontré la forma de que corte el color solo por encima y por debajo del h1 y el h4*/
+
+body{
+text-align: center;
+margin: 0;
+padding: 0;
+/*width: 50%;*/
+height: 25%;
+background-color: #0a2ff1;
+}
+
+div{
+    background-color: white;
+    margin-top: 40px;
+    margin-bottom: 90px;
+}
+
+h1,p,h4{
+    color: #0a2ff1;
+    background-color: white; 
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 50pt;
+    margin: 0;
+    padding: 40px 0px 100px 0px;
+}
+
+h2{
+    color: white;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 148pt;
+    margin: 0;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 163pt;
+    margin: 0;
+    padding: 150px 0px 150px 0px;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 44pt;
+    margin: 0;
+    padding: 50px 0px 50px 0px;
+    margin: 0;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 36pt;
+    margin: 0;
+}
+
+strong{
+    font-weight: 900;
+}
+
+.percent{
+    color: white;
+    background-color: black;
+    font-size: 45pt;
+}
