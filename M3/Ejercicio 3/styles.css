@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+/*font-family: 'Mulish', sans-serif;*/
+
+
+body{
+    border: 2px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 35px;
+    display: inline-block;
+    margin-left: 5%;
+    /*overflow: auto;*/
+}
+
+h1{
+    color: #04146c;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 18pt;
+}
+
+
+
+input{
+    color: #414166;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+    font-size: 14pt;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+}
+
+/*corrijo valores del width para que el button del submit quede igual que el de la imágen de referencia en el enunciado*/
+.buttonsub{
+    width: 525px;
+    color: white;
+    background-color: #0a2ff1;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 600;
+    font-size: 15pt;
+}
+
+input::placeholder {
+    color: #414166;
+}
+
+a{
+    color: #0a2ff1;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+    font-size: 14pt;
+    display: inline-block;
+    width: auto;
+}
+
+hr{
+    width: 525px;
+}
