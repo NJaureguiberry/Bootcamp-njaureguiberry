@@ -6,15 +6,47 @@ font-family: 'Roboto Slab', serif;
 */
 
 body{
-margin: 0;
-padding: 0;
-background-color: #3957f1;
+    background-color: #3957f1;
+    margin: 0px;
 }
 
+nav{
+    padding-left: 20px;
+}
 
+.ejercicio1{
+    margin: 0px;
+    padding: 0px;
+    background-color: #3957f1;
+}
 
-#logo-nav{
+.ejercicio3{
+    background-color: white;
+    background-image: url(images/M5-Desafio3-img.png);
+    background-repeat: no-repeat;
+    background-position: right 80px bottom -70px;
+    background-size: contain;
+}
+
+.ejercicio3 div{
+    padding-left: 5%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.logo-nav{
     width: 5%;
+}
+
+footer{
+    height: 60px;
+    background-color: #3957f1;
+}
+
+.logo-footer{
+    width: 8%;
+    padding-left: 5%;
+    display: flex;
 }
 
 header{
@@ -61,6 +93,14 @@ h1{
     letter-spacing: 2px;
 }
 
+h2{
+    color: #0a2ff1;
+    font-family: 'Roboto Slab', serif;
+    font-size: 34pt;
+    font-weight: 700;
+    margin-top: 0;
+}
+
 p{
     color: #04146c;
     font-family: 'Roboto Slab', serif;
@@ -68,6 +108,12 @@ p{
     font-size: 26pt;
     margin: 0;
 }
+
+.ejercicio3 p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18pt;
+}
+
 
 img{
     margin: 0;
