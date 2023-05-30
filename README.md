@@ -7,5 +7,6 @@
     <li><a href="https://github.com/NJaureguiberry/Bootcamp-njaureguiberry/tree/M2-HTML">Modulo 2 - HTML & CSS</a></li>
     <li><a href="https://github.com/NJaureguiberry/Bootcamp-njaureguiberry/blob/M3-HTML/README.md">Modulo 3 - HTML & CSS</a></li>    
     <li><a href="https://github.com/NJaureguiberry/Bootcamp-njaureguiberry/blob/M4-HTML/README.md">Modulo 4 - HTML & CSS</a></li>    
-    <li><a href="https://github.com/NJaureguiberry/Bootcamp-njaureguiberry/blob/M5-HTML/README.md">Modulo 5 - HTML & CSS</a></li>    
+    <li><a href="https://github.com/NJaureguiberry/Bootcamp-njaureguiberry/blob/M5-HTML/README.md">Modulo 5 - HTML & CSS</a></li>
+    <li><a href="https://github.com/NJaureguiberry/Bootcamp-njaureguiberry/tree/M6-Bootstrap">Modulo 6 - Bootstrap</a></li>
 </ul>
